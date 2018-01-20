@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+
+header {
+	border: 3px solid #ffffff;
+	background-image: url("img23/pink.png");
+	background-position: center top;
+	background-size: 300px 100px;
+}
+
+main, h2 {
+	font-style: none;
+}

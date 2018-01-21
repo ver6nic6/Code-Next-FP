@@ -1,14 +1,32 @@
 body {
-	text-align: center;
+	background-color: black;
 }
 
 header {
 	border: 3px solid #ffffff;
-	background-image: url("img23/pink.png");
+	background-image: url("img23/maxresdefault.jpg");
 	background-position: center top;
 	background-size: 300px 100px;
 }
 
-main, h2 {
+main, h1 {
 	font-style: none;
+}
+
+h1, h2, h3{
+	text-align: center;
+	color: white;
+}
+
+p {
+	text-align: none;
+	color: white;
+	font-size: 90%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
